@@ -157,9 +157,10 @@ class DataHandler:
         params = {
             "start_date": start_date,
             "end_date": end_date,
-            "currency": "USD",  # Required parameter
-            "hashunit": "THS",   # Required parameter - TeraHash
-            "sma": "7D"         # 7-day SMA
+            "currency": "USD",  
+            "hashunit": "THS", 
+            "span": "5Y",       
+            "bucket": "6H"      
         }
         
         print(f"API request parameters: {params}")
