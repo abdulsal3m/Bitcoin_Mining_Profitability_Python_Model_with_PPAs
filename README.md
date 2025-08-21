@@ -28,9 +28,9 @@ mining_dispatch_model/
 
 ## Setup and Installation
 
-1.  **Clone the repository (if applicable):**
+1.  **Clone the repository :**
     ```bash
-    git clone <repository_url>
+    git clone <https://github.com/abdulsal3m/Bitcoin_Mining_Profitability_Python_Model_with_PPAs>
     cd bitcoin_mining_dispatch
     ```
 
